@@ -1,4 +1,4 @@
-# A Compendium of [Field]
+# A Compendium of Mathematics
 *Foundations and Notes from Graduate Studies*
 
 [[Download the latest PDF here]](./main.pdf)
