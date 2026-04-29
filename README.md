@@ -10,9 +10,22 @@ This repository hosts an evolving, ~1,000-page compendium of graduate-level cour
 This document is a **Work in Progress (WIP)**. While many core theories and chapters are finalized, several sections remain in draft form and the document is subject to regular updates.
 
 ## Contents
-* [Module / Topic 1]
-* [Module / Topic 2]
-* [Module / Topic 3]
+* Category Theory
+* General Topology
+* Algebraic Topology
+* Sheaf Theory
+* Vector Bundles and Characteristic Classes
+* Differential Geometry
+* Riemannian Manifolds
+* Complex Geometry
+* Riemann Surfaces
+* Geometric Analysis
+* Lie Theory
+* Group Theory
+* Linear Algebra
+* Functional Analysis
+* Galois Theory
+* Measure Theory
 
 ## Contributing
 Corrections, typo reports, and suggestions are welcome. Please open an **Issue** to report errata.
