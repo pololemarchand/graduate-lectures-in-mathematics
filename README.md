@@ -1,7 +1,7 @@
 # A Compendium of [Field]
 *Foundations and Notes from Graduate Studies*
 
-[[Download the latest PDF here]](#)
+[[Download the latest PDF here]](./main.pdf)
 
 ## Overview
 This repository hosts an evolving, ~1,000-page compendium of graduate-level coursework. Originally synthesized to structure personal comprehension, this PDF is continually being refined into a comprehensive pedagogical resource and reference guide for future students. 
